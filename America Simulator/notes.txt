@@ -1,0 +1,4 @@
+Simple txt file for potential additions
+    -Create chance to miss, hit, dice roll rpg style
+    -More guns
+    -Change guns dynamically
